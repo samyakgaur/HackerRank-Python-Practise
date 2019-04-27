@@ -10,7 +10,7 @@ Python If-Else
 EasyMax Score: 10Success Rate: 91.23%
 
 
-Try Again
+Solve Challenge
 Python: Division
 EasyMax Score: 10Success Rate: 98.78%
 
