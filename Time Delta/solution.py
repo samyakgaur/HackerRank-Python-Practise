@@ -31,3 +31,4 @@ if __name__ == '__main__':
         fptr.write(delta + '\n')
 
     fptr.close()
+#refer the following site for datetime format specifiers https://www.journaldev.com/23365/python-string-to-datetime-strptime
