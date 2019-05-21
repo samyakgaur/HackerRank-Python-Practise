@@ -1,0 +1,7 @@
+import math
+a=int(input())
+b=int(input())
+c=math.sqrt(a*a+b*b)
+angle=math.atan(a/b)
+angle = angle * 180 / math.pi
+print(str(round(angle))+('\u00b0'))
