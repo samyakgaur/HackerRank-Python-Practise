@@ -1,0 +1,7 @@
+n1=input()
+l1,l2,l3=[],[],[]
+l1=input().split()
+n2=input()
+l2=input().split()
+l3=l1+l2
+print(len(list(set(l3))))
