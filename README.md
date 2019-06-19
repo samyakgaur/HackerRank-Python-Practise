@@ -5,7 +5,7 @@ EasyMax Score: 10Success Rate: 98.68%
 Addition, subtraction and multiplication.
 
 
-Solve Challenge
+Solve Challenge:
 Python If-Else
 EasyMax Score: 10Success Rate: 91.23%
 
